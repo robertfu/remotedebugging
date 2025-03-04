@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/remotedebugging/static/css/main.9a71fbc5.css",
-    "main.js": "/remotedebugging/static/js/main.f866d928.js",
-    "static/js/206.eac07c1c.chunk.js": "/remotedebugging/static/js/206.eac07c1c.chunk.js",
-    "index.html": "/remotedebugging/index.html"
+    "main.css": "/remotedebugging/static/css/main.f855e6bc.css",
+    "main.js": "/remotedebugging/static/js/main.50d66f17.js",
+    "static/js/453.3abeb461.chunk.js": "/remotedebugging/static/js/453.3abeb461.chunk.js",
+    "index.html": "/remotedebugging/index.html",
+    "main.f855e6bc.css.map": "/remotedebugging/static/css/main.f855e6bc.css.map",
+    "main.50d66f17.js.map": "/remotedebugging/static/js/main.50d66f17.js.map",
+    "453.3abeb461.chunk.js.map": "/remotedebugging/static/js/453.3abeb461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a71fbc5.css",
-    "static/js/main.f866d928.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.50d66f17.js"
   ]
 }
